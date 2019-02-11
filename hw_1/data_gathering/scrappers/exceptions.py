@@ -1,0 +1,2 @@
+class DdeliveryAPIError(Exception):
+    pass
